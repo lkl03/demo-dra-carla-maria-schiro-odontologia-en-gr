@@ -1,2 +1,7 @@
-# demo-dra-carla-maria-schiro-odontologia-en-gr
-Demo web para Dra. Carla Maria Schiro Odontología En Gral. — diseñada por eterlab.
+# Dra. Carla Maria Schiro Odontología En Gral.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
